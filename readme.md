@@ -2,6 +2,8 @@
 
 A URL shortening landing page built with Tailwind CSS.
 
+🔗 **Live Demo:** https://shortly-website-project.vercel.app
+
 ## Setup
 
 Install dependencies:
